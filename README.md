@@ -9,6 +9,7 @@
 ### Usage:
 ```cmd
 asciivid <video_name.mp4>
+```
 
 ### Notes:
 - This project was built and tested only on Windows x64 system 
